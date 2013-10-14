@@ -1,0 +1,67 @@
+.l-main-header
+  padding 1em
+  @media (min-width: 768px) // from table horizontal
+    padding 10px
+
+.main-header
+  width 100%
+  text-align center
+  background-color darken(color-header-background,10)
+
+.l-main-header-link
+  position relative
+  display inline-block
+  vertical-align top
+.main-header-link
+  color #fff
+  &:hover
+    color #fff
+    text-shadow 0px 0px 2px #fff
+    text-decoration none
+  @media (min-width: 768px) // from tablet horizontal
+    height auto
+    .title-container
+      height auto
+
+.l-header-title-container
+  position relative
+  display block
+  margin-left 10px
+  vertical-align top
+  @media (min-width: 768px) // from tablet horizontal
+    display block
+
+.header-title-container
+  color color-header
+
+.l-header-title
+  position relative
+  top 0
+  margin 0
+.header-title
+  font-weight normal
+  font-size 2em
+  line-height 1
+  @media (max-width: 767px) // to tablet horizontal
+    font-size 1.5em
+.l-header-subtitle
+  position absolute
+  bottom 0
+  @media (min-width: 768px) // from tablet horizontal
+    position relative
+
+
+.l-logo
+  position relative
+.logo
+  width 80px
+  height 80px
+  border-radius(18px)
+  @media (min-width: 768px) // from tablet horizontal
+    width 120px
+    height 120px
+    border-radius(27px)
+
+.l-search
+  margin-top 20px
+  margin-bottom 0

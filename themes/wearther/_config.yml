@@ -1,0 +1,44 @@
+menu:
+  Home: /
+  About: /about
+  Archives: /archives
+
+widgets:
+- search
+- menu
+- subscribe
+- recent_posts
+- category
+- tag
+
+excerpt_link: Read More
+
+twitter:
+  username: @WeartherApp
+  show_replies: false
+  tweet_count: 5
+
+share:
+  facebook: true
+  twitter: true
+  google: true
+  linkedin: true
+
+subscribe:
+  #facebook requires app id to display like box
+  facebook: weartherapp
+  facebookid: 601721569851414
+  #twitter account
+  twitter: WeartherApp
+  #path to feed
+  feed: /atom.xml
+
+fancybox: true
+
+google_analytics: UA-42963186-1
+# Fill this one to allow tracking for multiple subdomains
+google_analytics_domain: wearther.cc
+
+logo:
+  url: /img/logo.svg
+  text: wearther

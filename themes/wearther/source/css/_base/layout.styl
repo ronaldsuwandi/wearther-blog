@@ -1,0 +1,155 @@
+/**
+ * Base classes
+ */
+
+*
+  box-sizing(border-box)
+  text-size-adjust(none)
+  margin 0
+  padding 0
+  text-rendering optimizeLegibility;
+
+h1, h2, h3, h4, h5, h6
+  font-family font-title
+
+h1
+  font-size 1.8em
+
+h2
+  font-size 1.5em
+
+h3
+  font-size 1.3em
+
+a
+  text-decoration none
+  color color-link
+  transition color 0.2s ease;
+  &:hover
+    text-decoration underline
+    color lighten(color-link, 30%)
+  &:active
+    color lighten(color-link, 60%)
+
+.main
+  width page-width
+  background #fff
+  color color-font
+  font-family font-default
+  font-size 1em
+  text-shadow 0 0 1px transparent
+  line-height 1.4em
+  padding-left page-padding
+  padding-right (page-padding/2)
+  @media (max-width: 980px)
+    width 100%
+  @media (max-width: 767px)
+    padding-right page-padding
+  @media (max-width: 480px)
+    width 90%
+    padding 0
+
+.l-main
+  margin 1em auto
+  position relative
+
+.l-main-article
+  float left
+  clear both
+  @media (max-width: 767px)
+    float none
+
+.main-article
+  width 74%
+  @media (max-width: 767px)
+    width 100%
+
+.l-sidebar
+  float right
+  clear right
+  @media (max-width: 767px)
+    float none
+.sidebar
+  // width ((page-width - (1.5*page-padding))*0.23)
+  width 24%
+  @media (max-width: 767px)
+    width 100%
+
+.l-main-footer
+  float left
+  margin-bottom 30px
+  @media (max-width: 767px)
+    float none
+
+.l-menu-button
+  display block
+  position absolute
+  right 20px
+.menu-button
+  width 30px
+  height 30px
+  &:before
+    font 30px font-icon
+    color #fff
+    content '\f0c9'
+    vertical-align middle
+    text-align center
+  &:hover
+    text-shadow 0 0 3px #fff
+
+.l-menu-side-close
+  position absolute
+  top 0
+  left 0
+  margin 5px 15px
+.menu-side-close
+  width 30px
+  height 30px
+  &:before
+    font 30px font-icon
+    color color-side-button
+    content '\f105'
+    vertical-align middle
+    text-align center
+  &:hover
+    text-shadow 0 0 3px color-side-button
+
+.l-menu-side
+  position fixed
+  z-index 999
+  right 0
+  top 0
+  bottom 0
+  width 250px
+  transform(translateX(768px))
+  transition-property(default-transition-property)
+  transition-duration(default-transition-duration)
+  transition-timing-function(default-transition-function)
+  .l-widget
+    padding-left 35px
+  .l-widget-entry
+    padding 5px
+    li, ul, dl
+      margin-bottom 0.5em
+      padding-bottom 0.5em
+  .l-widget-title
+    display none
+.l-menu-side.isvisible
+  transform(translateX(0px))
+  transition-property(default-transition-property)
+  transition-duration(default-transition-duration)
+  transition-timing-function(default-transition-function)
+
+.menu-side
+  background darken(color-background,5)
+  box-shadow 0 0 5px color-shadow
+  .widget
+    background-color inherit
+    color #fff
+  .widget-entry
+    font-size 1.5em
+    li, ul, dl
+      border-bottom 1px solid color-border
+    a:hover
+      text-decoration none
+

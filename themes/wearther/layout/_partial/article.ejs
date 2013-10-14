@@ -1,0 +1,58 @@
+<article class="l-article article l-<%= item.layout %> <%= item.layout %>">
+  <% if (item.photos){ %>
+    <%- partial('post/gallery') %>
+  <% } %>
+
+  <section class="l-post-content post-content">
+    <header class="l-post-content-header post-content-header">
+      <%- partial('post/title') %>
+      <% if (item.layout != 'page'){ %>
+        <div class="l-post-icon post-icon hidden-phone"></div>
+        <% if (index) { %>
+          <div class="l-header-time header-time" datetime="<%= item.date.toDate().toISOString() %>"><a href="<%- config.root %><%- item.path %>"><%= item.date.format(config.date_format) %></a></div>
+        <% } else { %>
+          <div class="l-header-time header-time" datetime="<%= item.date.toDate().toISOString() %>"><%= item.date.format(config.date_format) %></div>
+        <% } %>
+      <% } %>
+    </header>
+
+    <section class="l-post-content-entry post-content-entry">
+      <% if (item.excerpt && index){ %>
+        <%- item.excerpt %>
+      <% } else { %>
+        <%- item.content %>
+      <% } %>
+    </div>
+
+    <%- partial('post/share') %>
+
+    <footer class="l-post-content-footer post-content-footer">
+      <% if (index){ %>
+        <% if (item.excerpt){ %>
+          <div class="float-left">
+            <a href="<%- config.root %><%- item.path %>#more" class="more-link"><%= theme.excerpt_link %></a>
+          </div>
+        <% } else { %>
+          <div class="float-left">
+            <%- partial('post/category') %>
+            <%- partial('post/tag') %>
+          </div>
+        <% } %>
+        <% if (item.comment && config.disqus_shortname){ %>
+        <div class="float-right">
+          <span class="comment">
+            <a href="<%- item.permalink %>#disqus_thread" class="comment-link">Comments</a>
+          </span>
+        </div>
+        <% } %>
+      <% } else { %>
+        <%- partial('post/category') %>
+        <%- partial('post/tag') %>
+      <% } %>
+      <div class="clearfix"></div>
+    </footer>
+  </section>
+</article>
+
+<%- partial('comment') %>
+<div class="clearfix"></div>

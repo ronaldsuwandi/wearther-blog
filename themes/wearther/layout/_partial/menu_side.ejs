@@ -1,0 +1,10 @@
+<% if (site.posts.length){ %>
+<div class="l-widget widget">
+  <h3 class="l-widget-title widget-title"><%= __('menu') %></h3>
+  <ul class="l-widget-entry widget-entry">
+    <% for (var i in theme.menu){ %>
+      <li><a href="<%- theme.menu[i] %>"><%= i %></a></li>
+    <% } %>
+  </ul>
+</div>
+<% } %>

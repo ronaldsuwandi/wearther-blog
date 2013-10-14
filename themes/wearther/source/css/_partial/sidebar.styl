@@ -1,0 +1,108 @@
+.l-widget
+  margin-bottom 30px
+
+.widget
+  background color-background
+  word-wrap break-word
+  ul, ol, dl
+    list-style none
+
+.l-widget-title
+  padding 15px 0
+.widget-title
+  font-size 1em
+  border-bottom 1px solid color-border
+  font-weight normal
+
+.l-widget-entry
+  padding 15px 0px
+.widget-entry
+  font-size 0.9em
+  ul, ol, dl
+    list-style disc
+    margin-left 0px
+
+.l-widget-entry-list
+  @media (max-width:480px)
+    display inline-block
+    li
+      display inline-block
+
+.tag-count
+  color color-meta
+  &:before
+    content '('
+  &:after
+    content ')'
+
+.l-tag-count
+  margin-left 15px
+  text-align right
+  @media (max-width:480px)
+    margin-left 5px
+    margin-right 15px
+
+.l-search
+  margin-bottom 20px
+  input
+    padding 10px 15px
+
+
+.search
+  input
+    text-indent 1em
+    background #fff
+    font-family font-title
+    font-style italic
+    font-size 1em
+    border 1px solid color-border
+    width 100%
+    box-sizing border-box
+    color color-meta
+    &:focus
+      color color-font
+
+
+.twitter
+  li
+    border-bottom 1px solid color-border
+    padding 15px 20px
+    font-size 0.9em
+    &:last-of-type
+      border-bottom none
+  small
+    display block
+    margin-top 10px
+    color color-meta
+    line-height 1
+
+.tagcloud
+  .entry
+    padding-right 5px
+  a
+    margin-right 10px
+    display inline-block
+
+.l-feed-button
+  padding 3px 6px
+.feed-button
+  color #fff
+  background-color #da6a25
+  font-size 12px
+  border-radius 2px
+  &:before
+    font 12px font-icon
+    content '\f09e'
+  &:hover
+    text-decoration none
+    color #fff
+    background linear-gradient(top, lighten(#da6a25,3), darken(#da6a25, 3));
+  &:active
+    color #fff
+    background linear-gradient(top, darken(#da6a25,3), lighten(#da6a25, 3));
+
+.l-widget-entry-subscribe
+  li
+    height: 26px
+    .fb-like
+      padding-top: 1px

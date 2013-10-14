@@ -1,0 +1,55 @@
+/**
+ * Utility classes
+ */
+
+.hidden
+  display none !important
+  visibility hidden
+
+.invisible
+  visibility hidden
+
+.clearfix
+  clearfix()
+
+.float-left
+  float left
+
+.float-right
+  float right
+
+.spacer
+  display inline-block
+.spacer-1em
+  width 1em
+  min-width 1em
+  max-width 1em
+
+.cursor-pointer
+  cursor pointer
+.cursor-default
+  cursor default
+
+/* mobile phone */
+@media (max-width:480px)
+  .hidden-phone
+    display none
+
+/* tablet */
+@media (min-width: 481px) and (max-width:767px)
+  .hidden-small-tablet
+    display none
+  .hidden-tablet
+    display none
+
+/* horizontal tablet */
+@media (min-width:768px) and (max-width:979px)
+  .hidden-large-tablet
+    display none
+  .hidden-tablet
+    display none
+
+/* desktop */
+@media (min-width: 980px)
+  .hidden-desktop
+    display none

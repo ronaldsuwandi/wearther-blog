@@ -1,0 +1,50 @@
+<% if (theme.share && item.share && !index){ %>
+  <div class="l-share share">
+    <span class="share-text hidden-phone hidden-small-tablet">
+      Share:
+    </span>
+    <span class="l-share-buttons share-buttons">
+      <% if (theme.share.facebook){ %>
+        <a class="facebook-share l-facebook-share" href="#"
+          onclick="
+            window.open(
+              'https://www.facebook.com/sharer/sharer.php?u='+encodeURIComponent(location.href),
+              'facebook-share-dialog',
+              'width=626,height=436');
+            return false;
+        "><img src="/img/social/facebook.svg" class="l-share-icon share-icon"></a>
+      <% } %>
+      <% if (theme.share.twitter){ %>
+        <a class="twitter-share l-twitter-share" href="#"
+          onclick="
+            window.open(
+              'https://twitter.com/intent/tweet?url='+encodeURIComponent(location.href),
+              'twitter-share-dialog',
+              'width=626,height=260');
+            return false;
+        "><img src="/img/social/twitter.svg" class="l-share-icon share-icon"></a>
+      <% } %>
+      <% if (theme.share.google){ %>
+        <a class="google-share l-google-share" href="#"
+          onclick="
+            window.open(
+              'https://plus.google.com/share?url='+encodeURIComponent(location.href),
+              'google-share-dialog',
+              'width=510,height=380');
+            return false;
+        "><img src="/img/social/google.svg" class="l-share-icon share-icon"></a>
+      <% } %>
+      <% if (theme.share.linkedin){ %>
+        <a class="linkedin-share l-linkedin-share" href="#"
+          onclick="
+            window.open(
+              'http://www.linkedin.com/shareArticle?mini=true&url='+encodeURIComponent(location.href),
+              'linkedin-share-dialog',
+              'width=600,height=380');
+            return false;
+        "><img src="/img/social/linkedin.svg" class="l-share-icon share-icon"></a>
+      <% } %>
+    </span>
+  </div>
+
+<% } %>

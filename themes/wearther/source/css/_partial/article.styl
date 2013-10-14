@@ -1,0 +1,344 @@
+icon-size = 30px
+icon-gap = 10px
+
+.l-article
+  margin-top 15px
+  margin-bottom 15px
+  .l-post-content
+    margin-bottom 50px
+    position relative
+
+  .l-gallery
+    overflow hidden
+    position relative
+    &:hover
+      .control
+        opacity 1
+
+  .l-post-content-entry
+    p, blockquote, ul, ol, dl, table, iframe, h3, h4, h5, h6, .video-container
+      margin-top 15px
+    ul, ol, dl
+      margin-left 20px
+      ul, ol, dl
+        margin-top 0
+
+  .l-post-content-footer
+    margin-top 15px
+    padding-top 10px
+    position relative
+
+
+.l-post-content-header
+  .l-title
+    display inline-block
+.post-content-header
+  .title
+    color color-link
+    a
+      transition color 0.2s ease;
+      &:hover
+        text-decoration none
+        color lighten(color-link, 20)
+      &:after
+        color lighten(color-link, 60)
+        font 12px font-icon
+        padding-left 10px
+        vertical-align super
+        font-weight normal
+  .title-link
+    a:after
+      color color-meta
+      content '\f08e'
+
+
+.l-header-time
+  margin-bottom 5px
+.header-time
+  color color-meta
+  font 0.8em font-title
+  line-height 1em
+  a:hover
+    text-decoration none
+
+.l-post-icon // match header title
+  position absolute
+  margin-top 0.5em
+  font-size icon-size
+  left 0 - (icon-size + icon-gap)
+  top 0
+
+.post-icon
+  width icon-size
+  height icon-size
+  color color-link
+  text-align right
+  vertical-align middle
+  &:before
+    font icon-size font-icon
+    width icon-size
+    text-align right
+  &:after
+    float left
+
+.article
+  &.page
+    .post-icon
+      display none
+  &.post
+    .post-icon
+      &:before
+        content '\f016'
+
+  &.photo
+    .post-icon
+      &:before
+        content '\f030'
+
+  &.link
+    .post-icon
+      &:before
+        content '\f0c1'
+
+  @media (max-width:767px)
+    // full width on vertical tablet and phone
+    width 100%
+  // img
+  //   min-width 100%
+  //   max-width 100%
+  //   height auto
+  //   position absolute
+  //   top 0
+  //   left 0
+  //   opacity 0
+
+  // .control
+  //   opacity 0
+  //   transition 0.3s
+
+  // .prev, .next
+  //   position absolute
+  //   top 0
+  //   width 50%
+  //   height 100%
+  //   cursor pointer
+  //   &:before
+  //     position absolute
+  //     font 24px/1 font-icon
+  //     text-align center
+  //     width 24px
+  //     text-shadow 0 0 15px rgba(0,0,0,0.5)
+  //     color #fff
+  //     margin-top -12px
+  //     top 50%
+
+  // .prev
+  //   left 0
+  //   &:before
+  //     content '\f053'
+  //     left 10px
+
+  // .next
+  //   right 0
+  //   &:before
+  //     content '\f054'
+  //     right 10px
+
+
+.post-content-entry
+  text-align left
+  line-height 1.5em
+
+  blockquote
+    border-top 1px solid color-border
+    border-bottom 1px solid color-border
+    font-style italic
+    font-family font-serif
+    font-size 1.2em
+    padding 0 30px 15px
+    text-align center
+    footer
+      border-top none
+      font-size 0.8em
+      line-height 1
+      margin 20px 0 0
+      padding-top 0
+      cite
+        &:before
+          content '—'
+          color #ccc
+          padding 0 0.5em
+
+  code, pre
+    font-family font-mono
+
+  code
+    background #eee
+    color #666
+    padding 0 5px
+    margin 0 2px
+    font-size 0.9em
+    border 1px solid color-border
+    border-radius 3px
+
+  pre
+    background #eee
+    border 1px solid color-border
+    margin-top 15px
+    overflow auto
+    padding 7px 15px
+    border-radius 2px
+    code
+      background none
+      padding 0
+      margin 0
+      border none
+      border-radius 0
+
+  h1, h2
+    font-weight normal
+    border-bottom 1px solid color-border
+    padding-bottom 10px
+    margin-top 20px
+
+  h3, h4, h5, h6
+    font-weight normal
+
+  img, video
+    max-width 100%
+    height auto
+    border none
+
+  iframe
+    border none
+
+  .caption
+    display block
+    margin-top 5px
+    color color-meta
+    position relative
+    font-size 0.9em
+    padding-left 25px
+    &:before
+      content '\f040'
+      position absolute
+      font 1.3em font-icon
+      position absolute
+      left 0
+      top 3px
+
+  .video-container
+    position relative
+    padding-bottom 56.25%
+    padding-top 30px
+    height 0
+    overflow hidden
+    iframe, object, embed
+      position absolute
+      top 0
+      left 0
+      width 100%
+      height 100%
+      margin-top 0
+
+  .pullquote
+    float right
+    border none
+    padding 0
+    margin 1em 0 0.5em 1.5em
+    text-align left
+    width 45%
+    font-size 1.5em
+
+.post-content-footer
+  border-top 1px solid color-border
+  color color-meta
+  font-size 0.9em
+  line-height 16px
+  min-height 16px
+  a
+    color color-meta
+    &:hover
+      color color-link
+      text-decoration none
+    &:before
+      font 1.1em font-icon
+      padding-right 10px
+      vertical-align middle
+    &.more-link
+      &:before
+        content '\f054'
+
+.comment
+  &:before
+    font 1.1em font-icon
+    content '\f075'
+
+.categories, .tags
+  &:before
+    font 1.1em font-icon
+
+.l-post-content-footer
+  .categories, .tags
+    position relative
+    padding-left 25px
+    margin 5px 0
+    &:before
+      position absolute
+
+  .categories
+    &:before
+      content '\f07b'
+      top 0
+      left 1px
+
+  .tags
+    &:before
+      content '\f02b'
+      top 0
+      left 2px
+
+.l-share
+  margin-top 2em
+  iframe
+    margin-top 0
+.share
+  text-align right
+  font-size 1em
+  color color-meta
+
+.l-share-icon
+  margin-left 5px
+  display inline-block
+  // up to vertical tablet
+  @media (max-width: 768px)
+    margin-left 12px
+.share-icon
+  width 16px
+  height 16px
+  background color-background
+  // up to vertical tablet
+  @media (max-width: 768px)
+    width 20px
+    height 20px
+
+
+.l-social-menu-icon
+  margin-right 10px
+  vertical-align middle
+.social-menu-icon
+  width 23px
+  height 23px
+
+.l-social-menu-icon-feed
+  vertical-align middle
+.social-menu-icon-feed:before
+  font 23px font-icon
+  line-height 23px
+  content '\f09e'
+  color #da6a25
+  &:hover
+    text-decoration none
+    color #da6a25
+  &:active
+    color #da6a25

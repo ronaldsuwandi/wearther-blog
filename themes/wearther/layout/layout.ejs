@@ -1,0 +1,49 @@
+<%- partial('_partial/head') %>
+<body id="js-body">
+  <!-- Facebook suggested to put the script after body -->
+  <% if (theme.subscribe && theme.subscribe.facebook) { %>
+  <div id="fb-root"></div>
+    <script>(function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.src = "//connect.facebook.net/en_GB/all.js#xfbml=1&appId=<%- theme.subscribe.facebookid %>";
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));</script>
+  <% } %>
+
+  <header class="l-main-header main-header">
+    <%- partial('_partial/header') %>
+  </header>
+
+  <div class="l-menu-side menu-side hidden-large-tablet hidden-desktop" id="js-menu-side">
+    <div class="l-menu-side-close menu-side-close cursor-pointer" id="js-menu-side-close"></div>
+    <%- partial('_widget/menu') %>
+  </div>
+
+  <section class="l-main main">
+    <div class="l-search search hidden-large-tablet hidden-desktop">
+      <%- partial('_widget/search') %>
+    </div>
+
+    <article class="l-main-article main-article">
+      <%- body %>
+    </article>
+
+    <aside class="l-sidebar sidebar">
+      <div class="hidden-large-tablet hidden-desktop">
+        <%- partial('_widget/category') %>
+        <%- partial('_widget/tag') %>
+      </div>
+      <div class="hidden-phone hidden-small-tablet">
+        <%- partial('_partial/sidebar') %>
+      </div>
+    </aside>
+    <div class="clearfix"></div>
+    <footer class="l-main-footer main-footer">
+      <%- partial('_partial/footer') %>
+    </footer>
+    <%- partial('_partial/after_footer') %>
+  </section>
+</body>
+</html>
