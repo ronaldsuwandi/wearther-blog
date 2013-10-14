@@ -1,0 +1,20 @@
+/* TEAM */
+  The Supreme Leader: Ronald Suwandi
+  Contact: ronald [at] wearther.cc
+  Twitter: @SuwandiRonald
+  From: Makassar, Indonesia
+
+  UI Designer: Stephanie Lee
+  Twitter: @leejiawei
+  From: Singapore, Singapore
+
+/* THANKS */
+
+  Designer: Stephanie Lee
+
+/* SITE */
+  Last update: 2013/10/15
+  Language: English
+  Doctype: HTML5
+  IDE: Sublime Text
+  Engine: Hexo
