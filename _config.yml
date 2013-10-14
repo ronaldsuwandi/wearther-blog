@@ -85,4 +85,6 @@ plugins:
 # Deployment
 ## Docs: http://zespia.tw/hexo/docs/deploy.html
 deploy:
-  type:
+  type: github
+  repository: git@github.com:ronaldsuwandi/wearther-blog.git
+
