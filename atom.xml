@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title><![CDATA[the wearther blog]]></title>
+  <link href="http://blog.wearther.cc//atom.xml" rel="self"/>
+  <link href="http://blog.wearther.cc/"/>
+  <updated>2013-10-13T10:47:54.718Z</updated>
+  <id>http://blog.wearther.cc//</id>
+  <author>
+    <name><![CDATA[Ronald Suwandi]]></name>
+    <email><![CDATA[contact@wearther.cc]]></email>
+  </author>
+  <generator uri="http://zespia.tw/hexo">Hexo</generator>
+  <entry>
+    <title type="html"><![CDATA[image]]></title>
+    <link href="http://blog.wearther.cc/2013/10/09/image/"/>
+    <id>http://blog.wearther.cc/2013/10/09/image/</id>
+    <published>2013-10-08T22:00:26.000Z</published>
+    <updated>2013-10-11T09:53:55.000Z</updated>
+    <content type="html"><![CDATA[<p>image type</p>
+<img src="/img/ipad.png" class="photo">
+
+<img src="/img/iphone5.png" class="photo">
+]]></content>
+    <category scheme="http://blog.wearther.cc/tags/image/" term="image"/>
+    <category scheme="http://blog.wearther.cc/categories/photoset/" term="photoset"/>
+  </entry>
+  <entry>
+    <title type="html"><![CDATA[excerpt]]></title>
+    <link href="http://blog.wearther.cc/2013/10/09/excerpt/"/>
+    <id>http://blog.wearther.cc/2013/10/09/excerpt/</id>
+    <published>2013-10-08T21:59:59.000Z</published>
+    <updated>2013-10-11T09:52:13.000Z</updated>
+    <content type="html"><![CDATA[<p>yo dawg yo</p>
+]]></content>
+    <category scheme="http://blog.wearther.cc/tags/excerpt/" term="excerpt"/>
+    <category scheme="http://blog.wearther.cc/categories/excerpt/" term="excerpt"/>
+    <category scheme="http://blog.wearther.cc/categories/excerpt/testderp/" term="testderp"/>
+  </entry>
+  <entry>
+    <title type="html"><![CDATA[lorem ipsum derp]]></title>
+    <link href="http://blog.wearther.cc/2013/10/06/lorem-ipsum-derp/"/>
+    <id>http://blog.wearther.cc/2013/10/06/lorem-ipsum-derp/</id>
+    <published>2013-10-06T08:23:54.000Z</published>
+    <updated>2013-10-06T08:23:59.000Z</updated>
+    <content type="html"><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ac venenatis sem, sit amet gravida neque. Fusce hendrerit dolor quis vulputate tincidunt. Vivamus imperdiet elit massa, sit amet fermentum nibh euismod et. Suspendisse potenti. Mauris vel elementum quam. Quisque ultricies nunc a tellus vehicula, volutpat tincidunt leo euismod. In faucibus felis sed condimentum tincidunt. Suspendisse vitae placerat justo, vitae ultricies enim.</p>
+<p>In hac habitasse platea dictumst. Phasellus iaculis, mi sit amet hendrerit dapibus, eros est ullamcorper lectus, id tempus felis diam volutpat velit. Sed augue purus, molestie vitae varius eu, pretium molestie lorem. Duis sodales dictum sem, id elementum ligula rhoncus at. Ut sed enim dictum, tincidunt turpis a, varius lectus. Donec nisi est, congue sed lorem vitae, facilisis consequat tortor. Vestibulum ut laoreet nibh, sed tincidunt nunc. Nunc pretium velit a fermentum tempus.</p>
+<p>Donec feugiat, tortor at pellentesque scelerisque, odio est auctor purus, id imperdiet neque sem bibendum libero. Sed laoreet odio eu congue pharetra. Cras sodales augue vehicula orci tincidunt porta. Curabitur eleifend tortor purus, id aliquet augue posuere ac. Nam ante odio, egestas a nibh in, euismod pulvinar metus. Nunc varius nec nulla ac suscipit. Nam vel convallis mi. Sed tincidunt tristique magna, a elementum mauris gravida eget. Sed porttitor at ipsum sit amet suscipit. Ut a tortor condimentum, dictum purus id, rutrum lorem.</p>
+]]></content>
+  </entry>
+  <entry>
+    <title type="html"><![CDATA[kthxbai]]></title>
+    <link href="http://blog.wearther.cc/2013/10/04/kthxbai/"/>
+    <id>http://blog.wearther.cc/2013/10/04/kthxbai/</id>
+    <published>2013-10-03T23:15:37.000Z</published>
+    <updated>2013-10-10T21:27:12.000Z</updated>
+    <content type="html"><![CDATA[<p>k thx bai</p>
+<ul>
+<li>derp</li>
+<li>kya</li>
+</ul>
+<p>abc</p>
+<ul>
+<li>def</li>
+<li>ghi<ul>
+<li>sublist1</li>
+<li>sublist2<ul>
+<li>subsublist1</li>
+<li>susubsublist</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+]]></content>
+    <category scheme="http://blog.wearther.cc/tags/test/" term="test"/>
+    <category scheme="http://blog.wearther.cc/categories/test/" term="test"/>
+    <category scheme="http://blog.wearther.cc/categories/test/general/" term="general"/>
+  </entry>
+  <entry>
+    <title type="html"><![CDATA[test-page]]></title>
+    <link href="http://blog.wearther.cc/2013/10/04/test-page/"/>
+    <id>http://blog.wearther.cc/2013/10/04/test-page/</id>
+    <published>2013-10-03T23:14:33.000Z</published>
+    <updated>2013-10-08T22:07:46.000Z</updated>
+    <content type="html"><![CDATA[<p>kthxbai (╯°□°）╯︵ ┻━┻<br>test google link</p>
+]]></content>
+    <category scheme="http://blog.wearther.cc/tags/test/" term="test"/>
+    <category scheme="http://blog.wearther.cc/tags/derp/" term="derp"/>
+  </entry>
+  <entry>
+    <title type="html"><![CDATA[hello-world]]></title>
+    <link href="http://blog.wearther.cc/2013/10/04/hello-world/"/>
+    <id>http://blog.wearther.cc/2013/10/04/hello-world/</id>
+    <published>2013-10-03T23:14:10.000Z</published>
+    <updated>2013-10-03T23:15:23.000Z</updated>
+    <content type="html"><![CDATA[<p>Hello! ಠ‿ಠ</p>
+<p>Welcome to <a href="http://zespia.tw/hexo" target="_blank">Hexo</a>! This is your very first post. Check <a href="http://zespia.tw/hexo/docs" target="_blank">documentation</a> to learn how to use.</p>
+]]></content>
+    <category scheme="http://blog.wearther.cc/tags/intro/" term="intro"/>
+  </entry>
+</feed>
