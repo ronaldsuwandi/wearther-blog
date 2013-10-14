@@ -15,7 +15,9 @@
   title.push(config.title);
   %>
   <title><%= title.join(' | ') %></title>
-  <% if (config.author){ %><meta name="author" content="<%= config.author %>"><% } %>
+
+  <link type="text/plain" rel="author" href="/humans.txt" />
+
   <% if (page.description){ %>
   <meta name="description" content="<%= page.description %>">
   <% } else if (config.description){ %>
