@@ -2,3 +2,6 @@
 node_modules
 db.json
 public
+.deploy
+debug.log
+db.json
