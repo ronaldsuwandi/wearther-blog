@@ -1,1 +1,65 @@
-(function(t){t(".entry").each(function(i){t(this).find("img").each(function(){var n=this.alt;n&&t(this).after('<span class="caption">'+n+"</span>"),t(this).wrap('<a href="'+this.src+'" title="'+n+'" class="fancybox" rel="gallery'+i+'" />')})});var i=function(t,i,n){var a=t.width();i.imagesLoaded(function(){var i=this[0],e=i.naturalWidth,c=i.naturalHeight;n(),this.animate({opacity:1},500),t.animate({height:a*c/e},500)})};t(".gallery").each(function(){var n=t(this),a=0,e=n.children(".photoset").children(),c=e.length,h=!0;i(n,e.eq(0),function(){h=!1}),n.on("click",".prev",function(){if(!h){var t=(a-1)%c;h=!0,i(n,e.eq(t),function(){e.eq(a).animate({opacity:0},500),h=!1,a=t})}}).on("click",".next",function(){if(!h){var t=(a+1)%c;h=!0,i(n,e.eq(t),function(){e.eq(a).animate({opacity:0},500),h=!1,a=t})}})})})(jQuery);
+(function($){
+  // Caption
+  $('.entry').each(function(i){
+    $(this).find('img').each(function(){
+      var alt = this.alt;
+
+      if (alt){
+        $(this).after('<span class="caption">' + alt + '</span>');
+      }
+
+      $(this).wrap('<a href="' + this.src + '" title="' + alt + '" class="fancybox" rel="gallery' + i + '" />');
+    });
+  });
+
+  // Gallery
+  var play = function(parent, item, callback){
+    var width = parent.width();
+
+    item.imagesLoaded(function(){
+      var _this = this[0],
+        nWidth = _this.naturalWidth,
+        nHeight = _this.naturalHeight;
+
+      callback();
+      this.animate({opacity: 1}, 500);
+      parent.animate({height: width * nHeight / nWidth}, 500);
+    });
+  };
+
+  $('.gallery').each(function(){
+    var $this = $(this),
+      current = 0,
+      photoset = $this.children('.photoset').children(),
+      all = photoset.length,
+      loading = true;
+
+    play($this, photoset.eq(0), function(){
+      loading = false;
+    });
+
+    $this.on('click', '.prev', function(){
+      if (!loading){
+        var next = (current - 1) % all;
+        loading = true;
+
+        play($this, photoset.eq(next), function(){
+          photoset.eq(current).animate({opacity: 0}, 500);
+          loading = false;
+          current = next;
+        });
+      }
+    }).on('click', '.next', function(){
+      if (!loading){
+        var next = (current + 1) % all;
+        loading = true;
+
+        play($this, photoset.eq(next), function(){
+          photoset.eq(current).animate({opacity: 0}, 500);
+          loading = false;
+          current = next;
+        });
+      }
+    });
+  });
+})(jQuery);
