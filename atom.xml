@@ -3,7 +3,7 @@
   <title><![CDATA[the wearther blog]]></title>
   <link href="http://blog.wearther.cc//atom.xml" rel="self"/>
   <link href="http://blog.wearther.cc/"/>
-  <updated>2013-10-14T20:51:11.588Z</updated>
+  <updated>2013-10-17T01:34:10.905Z</updated>
   <id>http://blog.wearther.cc//</id>
   <author>
     <name><![CDATA[Ronald Suwandi]]></name>
@@ -11,11 +11,30 @@
   </author>
   <generator uri="http://zespia.tw/hexo">Hexo</generator>
   <entry>
+    <title type="html"><![CDATA[Deployed wearther 0.2.0]]></title>
+    <link href="http://blog.wearther.cc/2013/10/17/deployed-wearther-020/"/>
+    <id>http://blog.wearther.cc/2013/10/17/deployed-wearther-020/</id>
+    <published>2013-10-16T20:38:01.000Z</published>
+    <updated>2013-10-17T01:34:01.000Z</updated>
+    <content type="html"><![CDATA[<p>New version of <a href="http://wearther.cc" target="_blank">wearther</a> (0.2.0) is now up and running with some new features including</p>
+<ul>
+<li>Automatic default unit detection. Hooray! It will use default unit based on your current location (eg. in the US Fahrenheit and MPH will be used and in Australia, Celsius and KM/H)</li>
+<li>Wind speed and temperature units can be set separately. You can use Fahrenheit for temperature and KM/H for wind speed if you wish<br>[screenshot]</li>
+<li>A Combination of arrow buttons on larger screens (ie. tablets and desktops). We received feedback that dragging the clothing combinations on larger screens was not very intuitive.<br>[screenshot]</li>
+<li>Options for the time duration spent outside. By default wearther takes The weighted average temperature for the next 6-12 hours (‘long duration’) before deciding what sort of clothing combinations to display. With <code>Short</code> duration now included as an alternative option, it will take the weighted average temperature for the next 2-3 hours to derive an optimal clothing combination. Perfect if you are only planning to go out for a short while</li>
+<li>Reduced bandwidth usage by 50%</li>
+<li>Minor UI changes (color, option back button, etc)</li>
+</ul>
+<p>Let us know what you think! We still have plenty of other features that need to be implemented and we are very excited about it! :D</p>
+]]></content>
+    <category scheme="http://blog.wearther.cc/categories/news/" term="news"/>
+  </entry>
+  <entry>
     <title type="html"><![CDATA[It's Up!]]></title>
     <link href="http://blog.wearther.cc/2013/10/14/it's-up/"/>
     <id>http://blog.wearther.cc/2013/10/14/it's-up/</id>
     <published>2013-10-14T10:46:26.000Z</published>
-    <updated>2013-10-14T11:03:26.000Z</updated>
+    <updated>2013-10-16T20:38:29.000Z</updated>
     <content type="html"><![CDATA[<p><a href="http://wearther.cc" target="_blank">wearther.cc</a> blog is now up and running! Here you will find all wearther related news, engineering and fashion tips. Stay tuned!</p>
 ]]></content>
     <category scheme="http://blog.wearther.cc/categories/news/" term="news"/>
