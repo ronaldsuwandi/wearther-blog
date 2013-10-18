@@ -1,6 +1,6 @@
 title: {{ title }}
 date: {{ date }}
-author: {{ site.author }}
+author: {{ author }}
 share: true
 categories: []
 tags: []

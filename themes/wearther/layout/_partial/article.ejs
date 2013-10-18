@@ -17,8 +17,11 @@
     </header>
 
     <section class="l-post-content-entry post-content-entry">
-      <% if (item.excerpt && index){ %>
+      <% if (item.excerpt){ %>
         <%- item.excerpt %>
+        <div class="l-more-link">
+          <a href="<%- config.root %><%- item.path %>#more" class="l-more-link more-link"><%= theme.excerpt_link %></a>
+        </div>
       <% } else { %>
         <%- item.content %>
       <% } %>
@@ -28,17 +31,11 @@
 
     <footer class="l-post-content-footer post-content-footer">
       <% if (index){ %>
-        <% if (item.excerpt){ %>
-          <div class="float-left">
-            <a href="<%- config.root %><%- item.path %>#more" class="more-link"><%= theme.excerpt_link %></a>
-          </div>
-        <% } else { %>
-          <div class="float-left">
-            <%- partial('post/category') %>
-            <%- partial('post/tag') %>
-          </div>
-        <% } %>
-        <% if (item.comment && config.disqus_shortname){ %>
+        <div class="float-left">
+          <%- partial('post/category') %>
+          <%- partial('post/tag') %>
+        </div>
+        <% if (item.comments && config.disqus_shortname){ %>
         <div class="float-right">
           <span class="comment">
             <a href="<%- item.permalink %>#disqus_thread" class="comment-link">Comments</a>
