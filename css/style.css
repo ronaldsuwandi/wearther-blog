@@ -478,8 +478,6 @@ a:active {
   line-height: 1.5em;
 }
 .post-content-entry blockquote {
-  border-top: 1px solid #ddd;
-  border-bottom: 1px solid #ddd;
   font-style: italic;
   font-family: "Georgia", serif;
   font-size: 1.2em;

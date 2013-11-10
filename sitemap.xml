@@ -1,12 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://blog.wearther.cc/2013/10/27/change-on-apparent-temperature-formula/</loc>
-    <lastmod>2013-10-27T10:18:56.000Z</lastmod>
+    <loc>http://blog.wearther.cc/about/index.html</loc>
+    <lastmod>2013-11-10T22:51:04.000Z</lastmod>
   </url>
   <url>
-    <loc>http://blog.wearther.cc/about/index.html</loc>
-    <lastmod>2013-10-27T10:14:03.000Z</lastmod>
+    <loc>http://blog.wearther.cc/faq/index.html</loc>
+    <lastmod>2013-10-27T10:41:05.000Z</lastmod>
+  </url>
+  <url>
+    <loc>http://blog.wearther.cc/2013/10/27/change-on-apparent-temperature-formula/</loc>
+    <lastmod>2013-10-27T10:22:22.000Z</lastmod>
   </url>
   <url>
     <loc>http://blog.wearther.cc/2013/10/17/deployed-wearther-020/</loc>
