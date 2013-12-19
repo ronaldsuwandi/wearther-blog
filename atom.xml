@@ -3,7 +3,7 @@
   <title><![CDATA[the wearther blog]]></title>
   <link href="http://blog.wearther.cc//atom.xml" rel="self"/>
   <link href="http://blog.wearther.cc/"/>
-  <updated>2013-12-15T10:15:27.597Z</updated>
+  <updated>2013-12-19T03:53:17.246Z</updated>
   <id>http://blog.wearther.cc//</id>
   <author>
     <name><![CDATA[Ronald Suwandi]]></name>
@@ -15,7 +15,7 @@
     <link href="http://blog.wearther.cc/2013/12/15/new-features!/"/>
     <id>http://blog.wearther.cc/2013/12/15/new-features!/</id>
     <published>2013-12-15T09:38:12.000Z</published>
-    <updated>2013-12-15T10:06:31.000Z</updated>
+    <updated>2013-12-19T03:43:34.000Z</updated>
     <content type="html"><![CDATA[<p>Good news! We&#39;ve implemented some new features on <a href="http://wearther.cc" target="_blank">wearther</a>!</p>
 <img src="/img/2013/12/umbrella.png" class="l-screenshot" width="300" height="300" title="Is that an umbrella? Yes it is!">
 
@@ -48,7 +48,7 @@
     <link href="http://blog.wearther.cc/2013/10/27/change-on-apparent-temperature-formula/"/>
     <id>http://blog.wearther.cc/2013/10/27/change-on-apparent-temperature-formula/</id>
     <published>2013-10-27T13:17:11.000Z</published>
-    <updated>2013-10-27T10:22:22.000Z</updated>
+    <updated>2013-12-19T03:43:58.000Z</updated>
     <content type="html"><![CDATA[<p>We recently took notice that wearther was not proving the right clothing combinations when temperatures were greater than 27 °C / 80 °F. We quickly realized that it was due to the formula of one of the temperature indicators that we currently use - Apparent Temperature. Because of this, wearther was providing us with combinations that involved too many layers of clothing.</p>
 <p>As of current, wearther makes use of the <a href="http://www.bom.gov.au/info/thermal_stress/" target="_blank">Australian Apparent Temperature</a> which takes into account wind speed. This works great but we missed out on the fact that it was meant to be used during cooler and not warmer temperatures. As a result we improved on the Apparent Temperature formula to include the <a href="http://en.wikipedia.org/wiki/Heat_index#Formula" target="_blank">Heat Index</a> to represent warmer temperatures, while keeping the AAT for cooler temperatures.</p>
 <p>As spring has arrived in the southern hemisphere, we believe that this change will make wearther more relevant to our friends in the northern and southern hemispheres.</p>
@@ -61,7 +61,7 @@
     <link href="http://blog.wearther.cc/2013/10/18/minor-update/"/>
     <id>http://blog.wearther.cc/2013/10/18/minor-update/</id>
     <published>2013-10-18T02:38:48.000Z</published>
-    <updated>2013-10-18T02:09:29.000Z</updated>
+    <updated>2013-12-19T03:43:56.000Z</updated>
     <content type="html"><![CDATA[<p>A minor update on <a href="http://wearther.cc" target="_blank">wearther</a> (0.2.2) has been deployed today</p>
 <ul>
 <li>Added favicons and removed irrelevant files from <a href="https://developer.mozilla.org/en/docs/HTML/Using_the_application_cache" target="_blank">AppCache</a></li>
@@ -77,7 +77,7 @@
     <link href="http://blog.wearther.cc/2013/10/17/deployed-wearther-020/"/>
     <id>http://blog.wearther.cc/2013/10/17/deployed-wearther-020/</id>
     <published>2013-10-16T23:38:01.000Z</published>
-    <updated>2013-12-10T22:07:14.000Z</updated>
+    <updated>2013-12-19T03:43:53.000Z</updated>
     <content type="html"><![CDATA[<p>New version of <a href="http://wearther.cc" target="_blank">wearther</a> (0.2.0) is now up and running with some new features including</p>
 <ul>
 <li>Automatic default unit detection. <em>Hooray!</em> It will use default unit based on your current location (eg. in the US Fahrenheit and MPH will be used and in Australia, Celsius and KM/H)</li>
@@ -106,7 +106,7 @@
     <link href="http://blog.wearther.cc/2013/10/14/it's-up/"/>
     <id>http://blog.wearther.cc/2013/10/14/it's-up/</id>
     <published>2013-10-14T13:46:26.000Z</published>
-    <updated>2013-10-16T20:38:29.000Z</updated>
+    <updated>2013-12-19T03:43:51.000Z</updated>
     <content type="html"><![CDATA[<p><a href="http://wearther.cc" target="_blank">wearther.cc</a> blog is now up and running! Here you will find all wearther related news, engineering and fashion tips. Stay tuned!</p>
 ]]></content>
     <category scheme="http://blog.wearther.cc/categories/news/" term="news"/>

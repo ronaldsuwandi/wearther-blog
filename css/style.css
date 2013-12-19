@@ -436,7 +436,7 @@ a:active {
 }
 .l-post-icon {
   position: absolute;
-  margin-top: 0.5em;
+  margin-top: 20px;
   font-size: 30px;
   left: -40px;
   top: 0;
