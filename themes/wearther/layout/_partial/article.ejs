@@ -9,9 +9,17 @@
       <% if (item.layout != 'page'){ %>
         <div class="l-post-icon post-icon hidden-phone"></div>
         <% if (index) { %>
-          <div class="l-header-time header-time" datetime="<%= item.date.toDate().toISOString() %>"><a href="<%- config.root %><%- item.path %>"><%= item.date.format(config.date_format) %></a></div>
+          <div class="l-header-time header-time" datetime="<%= item.date.toDate().toISOString() %>"><a href="<%- config.root %><%- item.path %>"><%= item.date.format(config.date_format) %>
+            <% if (item.author) { %>
+              <span class="l-header-author header-author"> &mdash; <%= item.author %></span>
+            <% } %>
+          </a></div>
         <% } else { %>
-          <div class="l-header-time header-time" datetime="<%= item.date.toDate().toISOString() %>"><%= item.date.format(config.date_format) %></div>
+          <div class="l-header-time header-time" datetime="<%= item.date.toDate().toISOString() %>"><%= item.date.format(config.date_format) %>
+          <% if (item.author) { %>
+            <span class="l-header-author header-author"> &mdash; <%= item.author %></span>
+          <% } %>
+          </div>
         <% } %>
       <% } %>
     </header>

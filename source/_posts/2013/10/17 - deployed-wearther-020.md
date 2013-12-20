@@ -1,6 +1,5 @@
 title: Deployed wearther 0.2.0
 date: 2013-10-17 07:38:01
-author: Ronald Suwandi
 share: true
 categories: [news]
 tags: []

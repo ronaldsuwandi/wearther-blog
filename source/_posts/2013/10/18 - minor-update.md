@@ -1,6 +1,5 @@
 title: Minor Update
 date: 2013-10-18 10:38:48
-author: Ronald Suwandi
 share: true
 categories: [news]
 tags: []

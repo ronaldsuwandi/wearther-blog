@@ -1,6 +1,5 @@
 title: Change on Apparent Temperature Formula
 date: 2013-10-27 21:17:11
-author: Ronald Suwandi
 share: true
 categories: [news, engineering]
 tags: []

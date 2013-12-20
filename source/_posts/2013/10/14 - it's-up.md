@@ -1,6 +1,5 @@
 title: It's Up!
 date: 2013-10-14 21:46:26
-author: Ronald Suwandi
 share: true
 categories: [news]
 tags: []
