@@ -1,7 +1,7 @@
 title: Minor Update
 date: 2013-10-18 10:38:48
 share: true
-categories: [news]
+categories: news
 tags: []
 ---
 A minor update on [wearther](http://wearther.cc) (0.2.2) has been deployed today

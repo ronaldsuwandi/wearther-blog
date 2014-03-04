@@ -1,7 +1,7 @@
 title: Deployed wearther 0.2.0
 date: 2013-10-17 07:38:01
 share: true
-categories: [news]
+categories: news
 tags: []
 ---
 New version of [wearther](http://wearther.cc) (0.2.0) is now up and running with some new features including

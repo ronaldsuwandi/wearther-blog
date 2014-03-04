@@ -1,7 +1,8 @@
 title: Change on Apparent Temperature Formula
 date: 2013-10-27 21:17:11
 share: true
-categories: [news, engineering]
+categories: news
+categories: engineering
 tags: []
 ---
 We recently took notice that wearther was not proving the right clothing combinations when temperatures were greater than 27 °C / 80 °F. We quickly realized that it was due to the formula of one of the temperature indicators that we currently use - Apparent Temperature. Because of this, wearther was providing us with combinations that involved too many layers of clothing.

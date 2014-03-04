@@ -1,0 +1,1762 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"vertical",
+				"vertical-align"
+			],
+			[
+				"verti",
+				"vertical-align"
+			],
+			[
+				"ver",
+				"vertical-align"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"weighted",
+				"weightedAvgApparentTemperature"
+			],
+			[
+				"scroller-arro",
+				"scroller-arrow-right"
+			],
+			[
+				"l-feedback",
+				"l-feedback-container"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"sampleT",
+				"sampleTempAfternoon  (variable)"
+			],
+			[
+				"weighte",
+				"weightedAvgApparentTemperature"
+			],
+			[
+				"errorSuggestion",
+				"errorSuggestionHeader"
+			],
+			[
+				"OSwa",
+				"Oswald-Light"
+			],
+			[
+				"bacg",
+				"background-color"
+			],
+			[
+				"temper",
+				"temperature-description"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"temperat",
+				"temperature-detail"
+			],
+			[
+				"js-option",
+				"js-option-button"
+			],
+			[
+				"backgroun",
+				"background-color"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"itemDescri",
+				"itemDescriptionShown"
+			],
+			[
+				"itemDes",
+				"itemDescription"
+			],
+			[
+				"itemDe",
+				"itemDescription"
+			],
+			[
+				"itemDescr",
+				"itemDescriptionShown"
+			],
+			[
+				"combination",
+				"combinationScroll"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"clog",
+				"console.log(message);"
+			],
+			[
+				"exit",
+				"process.exit(code);"
+			],
+			[
+				"warmth",
+				"warmthRequired"
+			],
+			[
+				"clo",
+				"console.log();"
+			],
+			[
+				"node",
+				"node_modules"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "source/faq/index.md",
+			"settings":
+			{
+				"buffer_size": 479,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "themes/wearther/layout/_partial/article.ejs",
+			"settings":
+			{
+				"buffer_size": 2277,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "source/_posts/2014/02/_08 - why-wearther-is-now-a-native-app.md",
+			"settings":
+			{
+				"buffer_size": 2392,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 181.0,
+		"selected_items":
+		[
+			[
+				"rename",
+				"File: Rename"
+			],
+			[
+				"ejs",
+				"EJS: <% and %>"
+			],
+			[
+				"coffee",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"PCInstall",
+				"Package Control: Install Package"
+			],
+			[
+				"PCins",
+				"Package Control: Install Package"
+			],
+			[
+				"preview",
+				"Markdown Preview: Github Flavored Markdown: Preview in Browser"
+			],
+			[
+				"previ",
+				"Markdown Preview: Python Markdown: Preview in Browser"
+			],
+			[
+				"PCUp",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"Sublimelinter",
+				"Preferences: SublimeLinter Settings – Default"
+			],
+			[
+				"Prefixr",
+				"Preferences: Prefixr Key Bindings – Default"
+			],
+			[
+				"convert to sp",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"PCLis",
+				"Package Control: List Packages"
+			],
+			[
+				"Preview",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"prev",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"PCIns",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"tidy",
+				"TidyHTML"
+			]
+		],
+		"width": 633.0
+	},
+	"console":
+	{
+		"height": 127.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/ronald/workspace/wearther-blog/source/_posts/2014/02/07 - wearther-is-now-available-on-the-app-store.md",
+		"/Users/ronald/workspace/wearther-blog/source/_posts/2014/02/07 - wearther-is-now-available-in-the-app-store.md",
+		"/Users/ronald/workspace/wearther-blog/source/_posts/2014/02/08 - why-wearther-is-now-a-native-app.md",
+		"/Users/ronald/workspace/wearther-blog/source/_posts/2014/02/_08 - why-wearther-is-now-a-native-app.md",
+		"/Users/ronald/workspace/wearther-blog/source/_posts/2014/02/07 - why-wearther-is-now-a-native-app.md",
+		"/Users/ronald/workspace/wearther-blog/_config.yml",
+		"/Users/ronald/workspace/wearther-blog/themes/wearther/layout/_partial/head.ejs",
+		"/Users/ronald/workspace/wearther-blog/themes/wearther/layout/index.ejs",
+		"/Users/ronald/workspace/wearther-blog/source/_posts/2014/02/04 - wearther-is-now-available-in-the-app-store.md",
+		"/Users/ronald/workspace/wearther-blog/themes/wearther/layout/_partial/google_analytics.ejs",
+		"/Users/ronald/workspace/wearther-blog/package.json",
+		"/Users/ronald/workspace/wearther-blog/themes/wearther/source/css/_partial/article.styl",
+		"/Users/ronald/workspace/wearther-blog/source/_posts/2013/12/15 - new-features!.md",
+		"/Users/ronald/workspace/wearther-blog/source/_posts/2013/10/14 - it's-up.md",
+		"/Users/ronald/workspace/wearther-blog/source/_posts/2013/10/17 - deployed-wearther-020.md",
+		"/Users/ronald/workspace/wearther-blog/source/_posts/2013/10/18 - minor-update.md",
+		"/Users/ronald/workspace/wearther-blog/source/_posts/2013/10/27 - change-on-apparent-temperature-formula.md",
+		"/Users/ronald/workspace/wearther-blog/scaffolds/post.md",
+		"/Users/ronald/workspace/wearther-blog/themes/wearther/layout/post.ejs",
+		"/Users/ronald/workspace/wearther-blog/source/_posts/2013/12/11 - new-features!.md",
+		"/Users/ronald/workspace/wearther-blog/source/about/index.md",
+		"/Users/ronald/workspace/wearther-blog/themes/wearther/layout/_partial/pagination.ejs",
+		"/Users/ronald/workspace/wearther-blog/themes/wearther/_config.yml",
+		"/Users/ronald/workspace/wearther-blog/themes/wearther/layout/layout.ejs",
+		"/Users/ronald/workspace/wearther-blog/source/_posts/2013/10/27 - change-in-apparent-temperature.md",
+		"/Users/ronald/workspace/wearther-blog/source/_posts/2013/10/21 - change-on-apparent-temperature-formula.md",
+		"/Users/ronald/workspace/wearther-blog/source/_posts/2013/10/20 - change-on-apparent-temperature-formula.md",
+		"/Users/ronald/workspace/wearther-blog/themes/wearther/source/css/_partial/comment.styl",
+		"/Users/ronald/workspace/wearther-blog/themes/wearther/layout/_partial/comment.ejs",
+		"/Users/ronald/workspace/wearther-blog/themes/wearther/layout/_partial/article.ejs",
+		"/Users/ronald/workspace/wearther-blog/themes/wearther/layout/_partial/after_footer.ejs",
+		"/Users/ronald/workspace/wearther-blog/themes/wearther/source/css/_base/layout.styl",
+		"/Users/ronald/workspace/wearther-blog/themes/wearther/source/css/_partial/syntax.styl",
+		"/Users/ronald/workspace/wearther-blog/themes/wearther/source/css/normalize.css",
+		"/Users/ronald/Dropbox/Settings/Sublime Text 2/Packages/User/trailing_spaces.sublime-settings",
+		"/Users/ronald/workspace/wearther-blog/themes/wearther/source/css/_base/utils.styl",
+		"/Users/ronald/workspace/wearther-blog/source/_posts/2013/10/17 - derp.md",
+		"/Users/ronald/workspace/wearther-blog/themes/wearther/layout/_partial/footer.ejs",
+		"/Users/ronald/workspace/wearther-blog/themes/wearther/languages/default.yml",
+		"/Users/ronald/workspace/wearther-blog/themes/wearther/source/css/font/fontawesome-webfont.svg",
+		"/Users/ronald/workspace/wearther-blog/scaffolds/photo.md",
+		"/Users/ronald/workspace/wearther-blog/source/_notes/notes.md",
+		"/Users/ronald/workspace/wearther-blog/themes/wearther/source/css/style.styl",
+		"/Users/ronald/workspace/wearther-blog/themes/wearther/layout/_partial/post/share.ejs",
+		"/Users/ronald/workspace/wearther-blog/themes/wearther/layout/_widget/subscribe.ejs",
+		"/Users/ronald/workspace/wearther-blog/source/humans.txt",
+		"/Users/ronald/workspace/wearther-blog/README.md",
+		"/Users/ronald/workspace/wearther-blog/.gitignore",
+		"/Users/ronald/workspace/wearther-blog/.deploy/index.html",
+		"/Users/ronald/workspace/wearther-blog/themes/wearther/source/humans.txt",
+		"/Users/ronald/workspace/wearther-blog/debug.log",
+		"/Users/ronald/workspace/wearther-blog/themes/wearther/source/CNAME",
+		"/Users/ronald/workspace/wearther-blog/project.sublime-project",
+		"/Users/ronald/workspace/wearther-blog/public/css/style.css",
+		"/Users/ronald/workspace/wearther-blog/.deploy/CNAME",
+		"/Users/ronald/workspace/wearther-blog/public/CNAME",
+		"/Users/ronald/Dropbox/Settings/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/ronald/workspace/wearther-blog/LICENSE",
+		"/Users/ronald/workspace/wearther-blog/themes/wearther/source/js/menu-button.js",
+		"/Users/ronald/workspace/wearther-blog/themes/wearther/source/js/main.js",
+		"/Users/ronald/workspace/wearther-blog/source/_posts/2013/10/14 - hello-world.md",
+		"/Users/ronald/workspace/wearther-blog/themes/wearther/source/css/_partial/sidebar.styl",
+		"/Users/ronald/workspace/wearther-blog/themes/wearther/layout/_partial/header.ejs",
+		"/Users/ronald/workspace/wearther-blog/scaffolds/draft.md",
+		"/Users/ronald/workspace/wearther-blog/scaffolds/page.md",
+		"/Users/ronald/workspace/wearther-blog/themes/wearther/layout/_widget/menu.ejs",
+		"/Users/ronald/workspace/wearther-blog/themes/wearther/layout/_widget/tag.ejs",
+		"/Users/ronald/workspace/wearther-blog/themes/wearther/layout/_partial/sidebar.ejs",
+		"/Users/ronald/workspace/wearther-blog/source/_drafts/2013/10/14 - it's-up.md",
+		"/Users/ronald/workspace/wearther-blog/source/_posts/2013/10/14 - asdf.md",
+		"/Users/ronald/workspace/wearther-blog/source/_posts/2013/10/04 - test-page.md",
+		"/Users/ronald/workspace/wearther-blog/themes/wearther/layout/_widget/social.ejs",
+		"/Users/ronald/workspace/wearther-blog/themes/wearther/source/css/_base/variable.styl",
+		"/Users/ronald/workspace/wearther-blog/themes/wearther/source/css/_partial/archive.styl",
+		"/Users/ronald/workspace/wearther-blog/themes/wearther/source/css/_partial/header.styl",
+		"/Users/ronald/workspace/wearther-blog/source/_posts/2013/10/09 - image.md",
+		"/Users/ronald/workspace/wearther-blog/themes/wearther/source/js/jquery-2.0.3.min.js",
+		"/Users/ronald/workspace/wearther-blog/themes/wearther/layout/_partial/menu_side.ejs",
+		"/Users/ronald/workspace/wearther-blog/themes/wearther/layout/_widget/menu-side.ejs",
+		"/Users/ronald/workspace/wearther-blog/themes/wearther/layout/_partial/archive.ejs",
+		"/Users/ronald/workspace/wearther-blog/themes/wearther/layout/_partial/post/title.ejs",
+		"/Users/ronald/workspace/wearther-blog/themes/wearther/layout/_partial/post/category.ejs",
+		"/Users/ronald/workspace/wearther-blog/themes/wearther/layout/_widget/category.ejs",
+		"/Users/ronald/workspace/wearther-blog/themes/wearther/layout/_widget/search.ejs",
+		"/Users/ronald/workspace/wearther-blog/source/_posts/2013/10/09 - excerpt.md",
+		"/Users/ronald/workspace/wearther-blog/themes/wearther/layout/archive.ejs",
+		"/Users/ronald/workspace/wearther-blog/themes/wearther/layout/category.ejs",
+		"/Users/ronald/workspace/wearther-blog/themes/wearther/layout/_widget/recent_posts.ejs",
+		"/Users/ronald/workspace/wearther-blog/source/_posts/2013/10/04 - kthxbai.md",
+		"/Users/ronald/workspace/wearther-blog/source/page/index.md",
+		"/Users/ronald/workspace/wearther-blog/source/_posts/2013/10/09 - image-1.md",
+		"/Users/ronald/workspace/wearther-blog/themes/wearther/layout/tag.ejs",
+		"/Users/ronald/workspace/wearther-blog/themes/wearther/layout/_partial/post/gallery.ejs",
+		"/Users/ronald/workspace/wearther-blog/source/_posts/2013/10/06 - lorem-ipsum-derp.md",
+		"/Users/ronald/workspace/wearther-blog/themes/wearther/source/css/pure-0.3.0.min.css",
+		"/Users/ronald/workspace/wearther-blog/source/_posts/2013/10/04 - hello-world.md",
+		"/Users/ronald/workspace/wearther-blog/source/_posts/hello-world.md",
+		"/Users/ronald/workspace/wearther-blog/Procfile",
+		"/Users/ronald/workspace/wearther-blog/local.js",
+		"/Users/ronald/workspace/wearther-blog/db.json",
+		"/Users/ronald/workspace/wearther-blog/src/documents/posts/test.html.md",
+		"/Users/ronald/workspace/wearther-blog/src/documents/posts/hello.html.md",
+		"/Users/ronald/workspace/wearther-blog/src/documents/pages/posts.html.eco",
+		"/Users/ronald/workspace/wearther-blog/docpad.coffee",
+		"/Users/ronald/workspace/wearther-blog/src/layouts/tags.html.eco",
+		"/Users/ronald/workspace/wearther-blog/src/layouts/default.html.eco",
+		"/Users/ronald/workspace/wearther-blog/src/documents/posts/bye.html.md",
+		"/Users/ronald/workspace/wearther-blog/src/documents/pages/hello.html.md",
+		"/Users/ronald/workspace/wearther-blog/src/layouts/page.html.eco",
+		"/Users/ronald/workspace/wearther-blog/src/documents/styles/style.css",
+		"/Users/ronald/workspace/wearther-blog/src/files/lib/pure-0.3.0.min.css",
+		"/Users/ronald/workspace/wearther-blog/src/files/lib/pure-0.2.1.min.css",
+		"/Users/ronald/workspace/wearther.bitbucket.org/src/documents/atom.xml.eco",
+		"/Users/ronald/workspace/wearther.bitbucket.org/package.json",
+		"/Users/ronald/workspace/wearther.bitbucket.org/docpad.coffee",
+		"/Users/ronald/workspace/wearther/public/css/wearther-media.css",
+		"/Users/ronald/workspace/wearther/public/js/modules/combination/Combination.js",
+		"/Users/ronald/workspace/wearther/public/js/modules/combination/views/combinations.js",
+		"/Users/ronald/workspace/wearther/public/js/modules/temperature/Temperature.js",
+		"/Users/ronald/workspace/wearther/public/js/WeartherApp.js",
+		"/Users/ronald/workspace/wearther/server/router.js",
+		"/Users/ronald/workspace/wearther/server/calculator.js",
+		"/Users/ronald/workspace/wearther/spec/calculator.js",
+		"/Users/ronald/workspace/wearther/public/js/modules/settings/Settings.js",
+		"/Users/ronald/workspace/wearther/public/js/modules/combination/collections/combinations.js",
+		"/Users/ronald/workspace/wearther/public/js/modules/combination/models/combination.js",
+		"/Users/ronald/workspace/wearther/public/js/modules/temperature/models/temperature.js",
+		"/Users/ronald/workspace/wearther/public/js/modules/combination/templates/combination.html"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"-node_modules/*",
+			"-node_modules",
+			"",
+			"public/img/items",
+			"public/img/meteocons",
+			"",
+			"C:\\Users\\Ronald\\workspace\\MuncherInterface"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"page.",
+			"img",
+			"paginat",
+			"posts",
+			"_indexg",
+			"posts",
+			"for",
+			"index",
+			"jquery",
+			"h1",
+			"line-height",
+			"I ",
+			"body",
+			"stylesheet",
+			"google",
+			"rss",
+			"li",
+			", li",
+			"(share-icon)",
+			"share",
+			"disqus",
+			"!important",
+			"top 3px",
+			"margin-bottom",
+			"border-",
+			"fontawesome",
+			"main-header-link",
+			"widget-entry",
+			".title",
+			"link",
+			".tag",
+			"tag",
+			"posts",
+			"margin-top",
+			".post-icon",
+			"width ",
+			"l-search",
+			".title",
+			"icon-gap",
+			"icon",
+			"script",
+			"excerpt_link",
+			"title",
+			"entry",
+			"post-content-footer",
+			"time",
+			"font",
+			"time",
+			"transition",
+			"p",
+			"list",
+			"li",
+			"ul",
+			"page-width",
+			"moz",
+			"pure-visible-desktop",
+			"pure-visible-phone",
+			"-phone",
+			"body",
+			"clearfix()",
+			"fancy",
+			"_post",
+			"pagination",
+			"if",
+			"urls",
+			"flex",
+			"pure-u-1",
+			"rss",
+			"\"",
+			"\"\n",
+			"unit",
+			"iscroll",
+			"iscroll.",
+			"duration",
+			"combinationcollection",
+			"change(",
+			"checked",
+			"change(",
+			"toggleoptions",
+			"$optionbutton",
+			"js-option",
+			"mouseup",
+			"change",
+			"change()",
+			"change",
+			"l-options",
+			"option-button-up",
+			"option",
+			"option-",
+			"document",
+			"events",
+			"subscribe",
+			"table",
+			"options",
+			"mubsub",
+			"handlenewdata",
+			"favicon",
+			"position\": \"und",
+			"position",
+			"longj",
+			"scroll",
+			"arrow-",
+			"location",
+			"pink",
+			"combinationscroll",
+			"js-combination",
+			"$el",
+			"js-combination",
+			"js-combinat",
+			"js-combination",
+			"hidedetails",
+			"mousedownitem",
+			"scrollLeft",
+			"js-scroller-arrow-left",
+			"js-scroll-",
+			"combinationscroll",
+			"scrollLeft",
+			"scroller-arrow",
+			"hidedetails",
+			"scrollright",
+			"combinationscroll",
+			"scroller",
+			"l-combination-container",
+			"username",
+			"displayinstall",
+			"trouser",
+			"toobusy",
+			"port"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"l-$1 $1",
+			"",
+			"'",
+			"trousers",
+			"filtered",
+			"no",
+			"macho",
+			"$1++i$2",
+			"sampleTemp.",
+			"celsius",
+			"",
+			"err, ",
+			"$1err, ",
+			"$1null, ",
+			"$1, ",
+			"opacity",
+			"3000",
+			"weather",
+			"/img/weather",
+			"",
+			"splash/splash",
+			"img/splash",
+			"\"img/favicons/",
+			"all",
+			"opacity z-index",
+			"opacity",
+			"all",
+			"image: url\\($1$2\\);",
+			"image: url\\($1\\\\b\\);",
+			"image: url\\($1\\b\\);",
+			"",
+			"currently(",
+			"unitTo",
+			"unitFrom",
+			".wearther",
+			"$1#fbfdfd$2",
+			"$1#fbfdfd\"$2",
+			"'/font",
+			"$1font/",
+			"$1.should.exists",
+			".exi",
+			"item._id",
+			"\"_id\"",
+			"0.075 *",
+			"7.5%",
+			"function",
+			"aco.__config.items",
+			"fahrenheit",
+			"this.$1",
+			"\"icon\": \"/img/meteocons/$1.svg",
+			"var",
+			"[]\n",
+			"\n'",
+			"};\n",
+			"heuristics"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "source/faq/index.md",
+					"settings":
+					{
+						"buffer_size": 479,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								290,
+								290
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2.0,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5.0,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10.0,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"camelcase": false,
+								"eqnull": true,
+								"evil": true,
+								"expr": true,
+								"globalstrict": true,
+								"indent": false,
+								"loopfunc": false,
+								"maxlen": 80.0,
+								"maxparams": 5.0,
+								"regexdash": true,
+								"smarttabs": true,
+								"strict": false,
+								"sub": true,
+								"unused": false,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublime_auto_complete": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 500.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+								"css": "node",
+								"html": "c:/tidy/tidy.exe",
+								"javascript": "node"
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "themes/wearther/layout/_partial/article.ejs",
+					"settings":
+					{
+						"buffer_size": 2277,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								763,
+								763
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"camelcase": false,
+								"eqnull": true,
+								"evil": true,
+								"expr": true,
+								"globalstrict": true,
+								"indent": false,
+								"loopfunc": false,
+								"maxlen": 80.0,
+								"maxparams": 5.0,
+								"regexdash": true,
+								"smarttabs": true,
+								"strict": false,
+								"sub": true,
+								"unused": false,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 500.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+								"css": "node",
+								"html": "c:/tidy/tidy.exe",
+								"javascript": "node"
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/EJS/EJS_default.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"word_separators": "./\\\\()\\\"\\'-:,.;<>~!@#%^&*|+=[]{}`~?"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "source/_posts/2014/02/_08 - why-wearther-is-now-a-native-app.md",
+					"settings":
+					{
+						"buffer_size": 2392,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1093,
+								1093
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"camelcase": false,
+								"eqnull": true,
+								"evil": true,
+								"expr": true,
+								"globalstrict": true,
+								"indent": false,
+								"loopfunc": false,
+								"maxlen": 80.0,
+								"maxparams": 5.0,
+								"regexdash": true,
+								"smarttabs": true,
+								"strict": false,
+								"sub": true,
+								"unused": false,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 500.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+								"css": "node",
+								"html": "c:/tidy/tidy.exe",
+								"javascript": "node"
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 102.0
+	},
+	"output.git":
+	{
+		"height": 102.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"why",
+				"source/_posts/2014/02/07 - why-wearther-is-now-a-native-app.md"
+			],
+			[
+				"head",
+				"themes/wearther/layout/_partial/head.ejs"
+			],
+			[
+				"index.",
+				"themes/wearther/layout/index.ejs"
+			],
+			[
+				"apps",
+				"source/_posts/2014/02/04 - wearther-is-now-available-in-the-app-store.md"
+			],
+			[
+				"release",
+				"themes/wearther/layout/_partial/google_analytics.ejs"
+			],
+			[
+				"package",
+				"package.json"
+			],
+			[
+				"app",
+				"source/_posts/2014/02/04 - wearther-is-now-available-in-the-app-store.md"
+			],
+			[
+				"head.",
+				"themes/wearther/layout/_partial/head.ejs"
+			],
+			[
+				"about",
+				"source/about/index.md"
+			],
+			[
+				"pagina",
+				"themes/wearther/layout/_partial/pagination.ejs"
+			],
+			[
+				"conf",
+				"_config.yml"
+			],
+			[
+				"confi",
+				"_config.yml"
+			],
+			[
+				"config",
+				"themes/wearther/_config.yml"
+			],
+			[
+				"index.ejs",
+				"themes/wearther/layout/index.ejs"
+			],
+			[
+				"index",
+				"themes/wearther/layout/index.ejs"
+			],
+			[
+				"layou",
+				"themes/wearther/layout/layout.ejs"
+			],
+			[
+				"change",
+				"source/_posts/2013/10/27 - change-in-apparent-temperature.md"
+			],
+			[
+				"faq",
+				"source/faq/index.md"
+			],
+			[
+				"article",
+				"themes/wearther/source/css/_partial/article.styl"
+			],
+			[
+				"after",
+				"themes/wearther/layout/_partial/after_footer.ejs"
+			],
+			[
+				"17",
+				"source/_posts/2013/10/17 - deployed-wearther-020.md"
+			],
+			[
+				"footer",
+				"themes/wearther/layout/_partial/after_footer.ejs"
+			],
+			[
+				"18",
+				"source/_posts/2013/10/18 - minor-update.md"
+			],
+			[
+				"norma",
+				"themes/wearther/source/css/normalize.css"
+			],
+			[
+				"",
+				"source/_posts/2013/10/17 - deployed-wearther-020.md"
+			],
+			[
+				"mino",
+				"source/_posts/2013/10/18 - minor-update.md"
+			],
+			[
+				"comment",
+				"themes/wearther/source/css/_partial/comment.styl"
+			],
+			[
+				"art",
+				"themes/wearther/layout/_partial/article.ejs"
+			],
+			[
+				"util",
+				"themes/wearther/source/css/_base/utils.styl"
+			],
+			[
+				"arti",
+				"themes/wearther/layout/_partial/article.ejs"
+			],
+			[
+				"layout",
+				"themes/wearther/layout/layout.ejs"
+			],
+			[
+				"inde",
+				"themes/wearther/layout/index.ejs"
+			],
+			[
+				"hea",
+				"themes/wearther/layout/_partial/head.ejs"
+			],
+			[
+				"defa",
+				"themes/wearther/languages/default.yml"
+			],
+			[
+				"derp",
+				"source/_posts/2013/10/17 - derp.md"
+			],
+			[
+				"post",
+				"scaffolds/post.md"
+			],
+			[
+				"atom",
+				"scaffolds/photo.md"
+			],
+			[
+				"14",
+				"source/_posts/2013/10/14 - it's-up.md"
+			],
+			[
+				"deplo",
+				"source/_posts/2013/10/17 - deployed-wearther-020.md"
+			],
+			[
+				"sty",
+				"themes/wearther/source/css/style.styl"
+			],
+			[
+				"hum",
+				"source/humans.txt"
+			],
+			[
+				"con",
+				"themes/wearther/_config.yml"
+			],
+			[
+				"sub",
+				"themes/wearther/layout/_widget/subscribe.ejs"
+			],
+			[
+				"subs",
+				"themes/wearther/layout/_widget/subscribe.ejs"
+			],
+			[
+				"googl",
+				"themes/wearther/layout/_partial/google_analytics.ejs"
+			],
+			[
+				"google",
+				"themes/wearther/layout/_partial/google_analytics.ejs"
+			],
+			[
+				"head.ejs",
+				"themes/wearther/layout/_partial/head.ejs"
+			],
+			[
+				"cnam",
+				"themes/wearther/source/CNAME"
+			],
+			[
+				".",
+				"/Users/ronald/workspace/wearther-blog/.gitignore"
+			],
+			[
+				"style",
+				"themes/wearther/source/css/style.styl"
+			],
+			[
+				"cname",
+				"themes/wearther/source/CNAME"
+			],
+			[
+				"licen",
+				"LICENSE"
+			],
+			[
+				"it'",
+				"source/_posts/2013/10/14 - it's-up.md"
+			],
+			[
+				"layo",
+				"themes/wearther/layout/layout.ejs"
+			],
+			[
+				"share",
+				"themes/wearther/layout/_partial/post/share.ejs"
+			],
+			[
+				"aft",
+				"themes/wearther/layout/_partial/after_footer.ejs"
+			],
+			[
+				"main",
+				"themes/wearther/source/js/main.js"
+			],
+			[
+				"theme",
+				"themes/wearther/_config.yml"
+			],
+			[
+				"in",
+				"source/about/index.md"
+			],
+			[
+				"commen",
+				"themes/wearther/layout/_partial/comment.ejs"
+			],
+			[
+				"side",
+				"themes/wearther/source/css/_partial/sidebar.styl"
+			],
+			[
+				"tags",
+				"themes/wearther/layout/_widget/tag.ejs"
+			],
+			[
+				"subscr",
+				"themes/wearther/layout/_widget/subscribe.ejs"
+			],
+			[
+				"sidebar",
+				"themes/wearther/layout/_partial/sidebar.ejs"
+			],
+			[
+				"menu",
+				"themes/wearther/layout/_widget/menu.ejs"
+			],
+			[
+				"lay",
+				"themes/wearther/source/css/_base/layout.styl"
+			],
+			[
+				"hello",
+				"source/_posts/2013/10/14 - hello-world.md"
+			],
+			[
+				"it's",
+				"source/_posts/2013/10/14 - it's-up.md"
+			],
+			[
+				"asdf",
+				"source/_posts/2013/10/14 - asdf.md"
+			],
+			[
+				"po",
+				"scaffolds/post.md"
+			],
+			[
+				"dra",
+				"source/_drafts/2013/10/14 - it's-up.md"
+			],
+			[
+				"it",
+				"source/_drafts/2013/10/14 - it's-up.md"
+			],
+			[
+				"hell",
+				"source/_posts/2013/10/14 - hello-world.md"
+			],
+			[
+				"page",
+				"scaffolds/page.md"
+			],
+			[
+				"photo",
+				"scaffolds/photo.md"
+			],
+			[
+				"c",
+				"_config.yml"
+			],
+			[
+				"af",
+				"themes/wearther/layout/_partial/after_footer.ejs"
+			],
+			[
+				"pho",
+				"scaffolds/photo.md"
+			],
+			[
+				"pos",
+				"scaffolds/post.md"
+			],
+			[
+				"test-p",
+				"source/_posts/2013/10/04 - test-page.md"
+			],
+			[
+				"ar",
+				"themes/wearther/source/css/_partial/article.styl"
+			],
+			[
+				"sh",
+				"themes/wearther/layout/_partial/post/share.ejs"
+			],
+			[
+				"shar",
+				"themes/wearther/layout/_partial/post/share.ejs"
+			],
+			[
+				"uti",
+				"themes/wearther/source/css/_base/utils.styl"
+			],
+			[
+				"social",
+				"themes/wearther/layout/_widget/social.ejs"
+			],
+			[
+				"soci",
+				"themes/wearther/layout/_widget/social.ejs"
+			],
+			[
+				"defal",
+				"themes/wearther/languages/default.yml"
+			],
+			[
+				"def",
+				"themes/wearther/languages/default.yml"
+			],
+			[
+				"default",
+				"themes/wearther/languages/default.yml"
+			],
+			[
+				"va",
+				"themes/wearther/source/css/_base/variable.styl"
+			],
+			[
+				"articl",
+				"themes/wearther/source/css/_partial/article.styl"
+			],
+			[
+				"foo",
+				"themes/wearther/layout/_partial/footer.ejs"
+			],
+			[
+				"artic",
+				"themes/wearther/layout/_partial/article.ejs"
+			],
+			[
+				"archi",
+				"themes/wearther/source/css/_partial/archive.styl"
+			],
+			[
+				"si",
+				"themes/wearther/source/css/_partial/sidebar.styl"
+			],
+			[
+				"heade",
+				"themes/wearther/source/css/_partial/header.styl"
+			],
+			[
+				"styl",
+				"themes/wearther/source/css/style.styl"
+			],
+			[
+				"ima",
+				"source/_posts/2013/10/09 - image.md"
+			],
+			[
+				"article.s",
+				"themes/wearther/source/css/_partial/article.styl"
+			],
+			[
+				"comments",
+				"themes/wearther/layout/_partial/comment.ejs"
+			],
+			[
+				"header",
+				"themes/wearther/layout/_partial/header.ejs"
+			],
+			[
+				"vari",
+				"themes/wearther/source/css/_base/variable.styl"
+			],
+			[
+				"var",
+				"themes/wearther/source/css/_base/variable.styl"
+			],
+			[
+				"main.js",
+				"themes/wearther/source/js/main.js"
+			],
+			[
+				"la",
+				"themes/wearther/source/css/_base/layout.styl"
+			],
+			[
+				"categor",
+				"themes/wearther/layout/_partial/post/category.ejs"
+			],
+			[
+				"categ",
+				"themes/wearther/layout/_widget/category.ejs"
+			],
+			[
+				"sear",
+				"themes/wearther/layout/_widget/search.ejs"
+			],
+			[
+				"comm",
+				"themes/wearther/source/css/_partial/comment.styl"
+			],
+			[
+				"sideb",
+				"themes/wearther/source/css/_partial/sidebar.styl"
+			],
+			[
+				"com",
+				"themes/wearther/source/css/_partial/comment.styl"
+			],
+			[
+				"coment",
+				"themes/wearther/source/css/_partial/comment.styl"
+			],
+			[
+				"im",
+				"source/_posts/2013/10/09 - image.md"
+			],
+			[
+				"_con",
+				"_config.yml"
+			],
+			[
+				"ex",
+				"source/_posts/2013/10/09 - excerpt.md"
+			],
+			[
+				"image",
+				"source/_posts/2013/10/09 - image.md"
+			],
+			[
+				"title",
+				"themes/wearther/layout/_partial/post/title.ejs"
+			],
+			[
+				"tit",
+				"themes/wearther/layout/_partial/post/title.ejs"
+			],
+			[
+				"archive.st",
+				"themes/wearther/source/css/_partial/archive.styl"
+			],
+			[
+				"arc",
+				"themes/wearther/layout/_partial/archive.ejs"
+			],
+			[
+				"archiv",
+				"themes/wearther/layout/archive.ejs"
+			],
+			[
+				"cate",
+				"themes/wearther/layout/category.ejs"
+			],
+			[
+				"catego",
+				"themes/wearther/layout/_widget/category.ejs"
+			],
+			[
+				"tag",
+				"themes/wearther/layout/_widget/tag.ejs"
+			],
+			[
+				"category",
+				"themes/wearther/layout/category.ejs"
+			],
+			[
+				"kth",
+				"source/_posts/2013/10/04 - kthxbai.md"
+			],
+			[
+				"imag",
+				"source/_posts/2013/10/09 - image.md"
+			],
+			[
+				"recen",
+				"themes/wearther/layout/_widget/recent_posts.ejs"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 235.0,
+	"status_bar_visible": true
+}

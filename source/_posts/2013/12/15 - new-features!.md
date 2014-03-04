@@ -1,7 +1,7 @@
 title: New Features!
 date: 2013-12-15 17:38:12
 share: true
-categories: [news]
+categories: news
 tags: []
 ---
 Good news! We've implemented some new features on [wearther][]!
