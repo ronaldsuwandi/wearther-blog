@@ -5,9 +5,9 @@ share: true
 categories: engineering
 tags: []
 ---
-I would like to share how wearther code is achitected. Hopefully this post will be useful for your own projects.
+I would like to share how [wearther][wearther] code is achitected. Hopefully this post will be useful for your own projects.
 
-Wearther is built on top of [Backbone][backbone] for the front-end and [Node.js][node] as its backend. The backend stuff is pretty simple, just a small webserver that handles different routes, requests external API calls and the optimizer to calculate clothing combinations. I want to focus on the front-end side of things instead.
+[Wearther][wearther] is built on top of [Backbone][backbone] for the front-end and [Node.js][node] as its backend. The backend stuff is pretty simple, just a small webserver that handles different routes, requests external API calls and the optimizer to calculate clothing combinations. I want to focus on the front-end side of things instead.
 
 First off, I decided to separate each component to a separate module and store it in their own separate directories. So we left with the following directory structure:
 
@@ -73,7 +73,7 @@ I like mediator pattern approach but I'm still not entirely satisfied. I don't l
 
 The idea is very simple. Each module can broadcast and listen to message, but they are not allowed to directly communicate with other module. Every communication is handled by the main object (`WeartherApp`). To achieve this, all modules inherited [Backbone.Event][bbevent] class so it can call `trigger` method.
 
-`WeartherApp` then load all them odules an listens to the broadcast messages and react accordingly
+`WeartherApp` then load all the modules and listens to the broadcast messages and react accordingly
 
 ```
 *Location.js*
@@ -123,3 +123,4 @@ I hope you find this post useful. Let me know what you think :)
 [mediator1]:http://addyosmani.com/resources/essentialjsdesignpatterns/book/#mediatorpatternjavascript
 [mediator2]:http://addyosmani.com/largescalejavascript/#mediatorpattern
 [bbevent]:http://backbonejs.org/#Events
+[wearther]:http://wearther.cc/
